@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: skin27
+Label: skin27
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: A Dark iOS theme that aims to replicate iOS 27. Supported only by iOS versions at least or above 12.5.8
