@@ -13,7 +13,7 @@ This repo aims to replicate the liquid feel for every iPhone that is, or above, 
 
 ### Steps
 1. Open **Cydia** and install **`Filza File Manager`** (tap **Return to Cydia** when finished) and **`Batchomatic`** (tap **Restart SpringBoard** when finished).
-2. Download the **`.deb` file** from the **Assets** section below and open it in **Filza**.
+2. Download the **`.deb` file** from [here](https://github.com/sandwich-makes-code/skin27/releases) and open it in **Filza**.
 3. Tap the `.deb` file in Filza and tap **Install** (top right), then tap **Done** (or **Respring**).
 4. Open **Cydia > Search**, tap the **Batchomatic** icon in the search bar, and tap **Install .deb**.
 5. Tap **Proceed** and let your device respring into **iOS 27**!
