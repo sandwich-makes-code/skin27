@@ -1,9 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Follow me on Github</name>
+			<url>https://github.com/sandwich-makes-code</url>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
 			<name>I want this depiction template</name>
