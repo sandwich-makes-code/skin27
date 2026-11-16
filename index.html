@@ -8,7 +8,22 @@
   <link rel="stylesheet" href="depictions/style.css">
   
   <!-- Custom Theme Styling using #8A715B -->
-  <style>
+<style>
+      /* Add the custom wallpaper background */
+      body {
+          background-image: url('logo_wallpaper.jpg');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          color: #ffffff; /* Optional: Makes default text white so it stands out against the wallpaper */
+      }
+
+      /* Make cards slightly transparent so the wallpaper shows through nicely */
+      .card {
+          background-color: rgba(255, 255, 255, 0.9); /* White with 90% opacity */
+      }
+
       /* Change primary buttons to match the theme color */
       .btn-primary {
           background-color: #8A715B !important;
