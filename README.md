@@ -14,6 +14,10 @@
 > [!NOTE]
 > If you already have **SnowBoard** installed from a previous theme, uninstall **SnowBoard** in Cydia before running **Install .deb** so your new icons apply cleanly.
 
+> [!note]
+> Once you have installed this skin pack, you can change icons by holding down an app and drag it around to access Jiggle Mode, then double-tap your desired app icon you want to change quickly, in which you will access an icon switcher menu.
+
+
 ## Introduction
 **Ever wanted to have the new Liquid Glass UI without sending your wallet to the god of debt?**
 This repo aims to replicate the liquid feel for every iPhone that is, or above, a 6th generation that also has at least iOS 12 to 14.
