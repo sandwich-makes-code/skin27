@@ -11,6 +11,9 @@
 >[!Note]
 >This repository is counted as finished. If there is any problems, please send them [here.](https://github.com/sandwich-makes-code/skin27/issues)
 
+> [!NOTE]
+> If you already have **SnowBoard** installed from a previous theme, uninstall **SnowBoard** in Cydia before running **Install .deb** so your new icons apply cleanly.
+
 ## Introduction
 **Ever wanted to have the new Liquid Glass UI without sending your wallet to the god of debt?**
 This repo aims to replicate the liquid feel for every iPhone that is, or above, a 6th generation that also has at least iOS 12 to 14.
