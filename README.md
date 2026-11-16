@@ -20,7 +20,7 @@
 
 ## Introduction
 **Ever wanted to have the new Liquid Glass UI without sending your wallet to the god of debt?**
-This repo aims to replicate the liquid feel for every iPhone that is, or above, a 6th generation that also has at least iOS 12 to 14.
+This repo aims to replicate the liquid feel for every iPhone that is, or above, a 6th generation that also has at least iOS 12 to 14. (precisely iOS 12.5.8 to 14.8.1)
 
 ## Installation Guide
 **Your iPhone must have already been jailbroken by some jailbreaking tool and must have Cydia installed.**
