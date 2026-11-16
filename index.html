@@ -4,11 +4,15 @@
   <title>skin27</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="logo.png">
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <link rel="stylesheet" href="depictions/style.css">
   
   <!-- Custom Theme Styling using #8A715B -->
-<style>
+  <style>
       /* Add the custom wallpaper background */
       body {
           background-image: url('logo_wallpaper.jpg');
@@ -16,7 +20,7 @@
           background-position: center;
           background-repeat: no-repeat;
           background-attachment: fixed;
-          color: #ffffff; /* Optional: Makes default text white so it stands out against the wallpaper */
+          color: #ffffff;
       }
 
       /* Make cards transparent so the wallpaper shows through nicely */
@@ -39,7 +43,7 @@
           color: #8A715B !important;
       }
 
-      /* Optional: Give card headers a nice subtle hint of the theme */
+      /* Give card headers a nice subtle hint of the theme */
       .card-header {
           background-color: #F4F1EA;
           color: #4E3D31;
@@ -49,8 +53,8 @@
 
   <!-- Include jQuery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <!-- Include marked.js for rendering markdown -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- Include marked.js v4 for older Safari & modern browser compatibility -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
 </head>
 <body>
 
