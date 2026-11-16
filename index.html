@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="depictions/style.css">
   
   <!-- Custom Theme Styling using #8A715B -->
-<style>
+  <style>
       /* Add the custom wallpaper background */
       body {
           background-image: url('logo_wallpaper.jpg');
@@ -43,11 +43,21 @@
           color: #8A715B !important;
       }
 
-      /* Give card headers a nice subtle hint of the theme */
+      /* Make card headers match the "More info" button bronze (#8A715B) with white text */
       .card-header {
-          background-color: #F4F1EA;
-          color: #4E3D31;
+          background-color: #8A715B !important;
+          color: #ffffff !important;
           font-weight: bold;
+          border-bottom: 1px solid #745E4C;
+      }
+
+      /* Make section headers (Featured Packages, README) match the bronze theme with white text */
+      h3.page-header, .container h3 {
+          color: #ffffff;
+          background-color: rgba(138, 113, 91, 0.75);
+          padding: 8px 12px;
+          border-radius: 4px;
+          border-left: 4px solid #5D4B3D;
       }
 
       /* Style GitHub Alerts to match the "More info" button bronze (#8A715B) */
