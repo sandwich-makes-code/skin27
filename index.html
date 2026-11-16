@@ -73,4 +73,20 @@
 <!-- Script to load and render README.md -->
 <script>
     fetch('README.md')
-        .then(
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Could not load README.md');
+            }
+            return response.text();
+        })
+        .then(markdownText => {
+            document.getElementById('readme-container').innerHTML = marked.parse(markdownText);
+        })
+        .catch(error => {
+            console.error(error);
+            document.getElementById('readme-container').innerHTML = 'Failed to load README content.';
+        });
+</script>
+
+</body>
+</html>
