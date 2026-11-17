@@ -15,7 +15,7 @@
 > If you already have **SnowBoard** installed from a previous theme, uninstall **SnowBoard** in Cydia before running **Install .deb** so your new icons apply cleanly.
 
 > [!note]
-> Once you have installed this skin pack, you can change icons by holding down an app and drag it around to access Jiggle Mode, then double-tap your desired app icon you want to change quickly, in which you will access an icon switcher menu.
+> Once you have installed this skin pack, all icons may not have been changed. To fix this, you can change the app icons by holding down an app on the home screen and drag it around to access Jiggle Mode, then double-tap your desired app icon you want to change quickly, in which you will access an icon switcher menu.
 
 
 ## Introduction
