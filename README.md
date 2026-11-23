@@ -10,6 +10,8 @@
   Demonstration of icons.
 </h1>
 
+<img align="right" width="400" src="demonstration_iphone.png" />
+
 >[!WARNING] 
 >This is a build that I only built with a specific iPhone 6 on iOS 12.5.8. Even though it may not matter, please note that everything may not work depending on your specific iPhone model.
 
