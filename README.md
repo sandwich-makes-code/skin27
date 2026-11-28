@@ -13,10 +13,13 @@
 <img align="right" width="400" src="demonstration_iphone.png" />
 
 >[!WARNING] 
->This is a build that I only built with a specific iPhone 6 on iOS 12.5.8. Even though it may not matter, please note that everything may not work depending on your specific iPhone model.
+> This is a build that I only built with a specific iPhone 6 on iOS 12.5.8. Even though it may not matter, please note that everything may not work depending on your specific iPhone model.
+
+>[!Warning]
+> Even though this is forked from the Reposi3 repository, this is NOT a Cydia repository. Please do not download the files from Cydia because they haven't been tested and may break something.
 
 >[!Note]
->This repository is counted as finished. If there is any problems, please send them [here.](https://github.com/sandwich-makes-code/skin27/issues)
+> This repository is counted as finished. If there is any problems, please send them [here.](https://github.com/sandwich-makes-code/skin27/issues)
 
 > [!NOTE]
 > If you already have **SnowBoard** installed from a previous theme, uninstall **SnowBoard** in Cydia before running **Install .deb** so your new icons apply cleanly.
